@@ -1,5 +1,5 @@
 def call(clean) {
-  clean([
+  cleanws([
       cleanWs()
       ])
 }
