@@ -2,4 +2,6 @@
 
 println "Cleaning up workspace...."
 
-cleanWs()
+def call() {
+  cleanWs()
+}
