@@ -1,5 +1,1 @@
-def cleanws() {
-  cleanws([
-      cleanWs()
-      ])
-}
+cleanWs()
